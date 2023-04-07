@@ -1,6 +1,5 @@
 # Custome ignored files.
 ckpt/*
-data/*
 inductive-results/*
 log/*
 nc-results/*
