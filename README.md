@@ -21,6 +21,8 @@ Code for [Transition Propagation Graph Neural Networks for Temporal Networks](ht
 
 ## Data Preprocess
 
+We have preprocessed most temporal graphs in the `data/format_data` directory, and placed the JODIE datasets at [Google drive](https://drive.google.com/drive/folders/19ItQ4G64rYa6so1IQ6NxEq_Ok7K9Sqsp?usp=sharing), which can be downloaded and placed at the `data/format_data`.
+
 ```bash
 bash init.sh
 ```
