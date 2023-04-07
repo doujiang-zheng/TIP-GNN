@@ -9,6 +9,8 @@
 
 # TIP-GNN
 
+> Authors: Tongya Zheng, Zunlei Feng, Tianli Zhang, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Ji Zhao, Chun Chen
+
 Code for [Transition Propagation Graph Neural Networks for Temporal Networks](https://ieeexplore.ieee.org/abstract/document/9955364).
 
 ## Setup the Environment
