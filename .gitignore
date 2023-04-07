@@ -5,6 +5,7 @@ log/*
 nc-results/*
 results/*
 saved_models/*
+data/*
 
 # Default settings.
 **/__pycache__/*
